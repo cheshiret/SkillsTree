@@ -1,0 +1,42 @@
+Function Test
+Blackbox
+Whitebox
+Greybox
+Reading
+Writing
+Communicate
+
+Security Test
+Probe
+Network
+Parse
+Coding
+Debug
+
+Automation Test
+Coding
+Network
+Reading
+Communicate
+Debug
+
+Performance Test
+Coding
+Network
+Reading
+Communicate
+Debug
+Analyze
+
+Integration Test
+Blackbox
+ReadingCommunicate
+Planning
+
+Migration Test
+Database
+Blackbox
+Whitebox
+Planning
+Automation
+Communicate
