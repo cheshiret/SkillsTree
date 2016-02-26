@@ -1,2 +1,2 @@
 # SkillsTree
-Be out of comfortable
+stay out of comfortable zone
